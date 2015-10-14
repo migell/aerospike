@@ -1,0 +1,2 @@
+# aerospike
+konfiguracie, zdrojaky
